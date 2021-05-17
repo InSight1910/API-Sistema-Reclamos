@@ -1,0 +1,7 @@
+
+GET http://localhost:3000/user/kfdfd
+
+###
+
+
+GET http://localhost:3000/users/fa
